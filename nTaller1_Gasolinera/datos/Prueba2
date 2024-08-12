@@ -1,0 +1,8 @@
+tipo:Corriente:21000:342.55
+tipo:Turbo:14000:794.2857142857143
+surtidor:Lucas:Corriente:5.0:Turbo:0.0
+surtidor:Mateo:Corriente:7.0:Turbo:5.714285714285714
+surtidor:Juan:Corriente:100.0:Turbo:200.0
+empleado:Mateo:227000
+empleado:Lucas:105000
+empleado:Juan:4900000
